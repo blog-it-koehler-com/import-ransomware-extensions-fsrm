@@ -1,0 +1,6 @@
+YOUR_FILES_ARE_LOCKED.txt
+YOUR_FILES_ARE_ENCRYPTED.TXT
+_ryp
+_Locky_recover_instructions.txt
+_RYP
+*.zzzzzzzzzzzzz
